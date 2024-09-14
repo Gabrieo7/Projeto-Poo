@@ -1,0 +1,14 @@
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\bin\Debug\net8.0\Desafio Poo.exe
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\bin\Debug\net8.0\Desafio Poo.deps.json
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\bin\Debug\net8.0\Desafio Poo.runtimeconfig.json
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\bin\Debug\net8.0\Desafio Poo.dll
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\bin\Debug\net8.0\Desafio Poo.pdb
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\Desafio Poo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\Desafio Poo.AssemblyInfoInputs.cache
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\Desafio Poo.AssemblyInfo.cs
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\Desafio Poo.csproj.CoreCompileInputs.cache
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\Desafio Poo.dll
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\refint\Desafio Poo.dll
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\Desafio Poo.pdb
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\Desafio Poo.genruntimeconfig.cache
+c:\Users\ADMIN\Documents\Programação\C#\Desafio Poo\obj\Debug\net8.0\ref\Desafio Poo.dll
